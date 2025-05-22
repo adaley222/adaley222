@@ -1,7 +1,7 @@
 # Howdy 👋 I'm Andrew Daley
-## I'm an AI focused technologist with a passion for music and languages. 
+## I'm an AI focused technologist with a passion for Brain-Computer Interfaces, music, and languages. 
 
-I've worked professionally on language learning software like:
+I've worked professionally as a Product Manager on language learning software like:
 
 ## [The English Farm](https://theenglishfarm.com/home)
 
@@ -25,4 +25,10 @@ Online Te Reo Māori school deidcated and passionate about the proliferation of 
 
 [![rick_image](https://github.com/user-attachments/assets/1d522e48-b9bb-4773-8c6d-0701d44c6913)]((https://github.com/adaley222/Rick))
 
-It's difficult to work software from behind a guitar or drumset. Rick is your helpful partner behind the screen. Just tell him what you'd like to do, and he'll operate your DAW for you. 
+It's difficult to work software from behind a guitar or drumset. Rick is your helpful partner behind the screen. Just tell him what you'd like to do, and he'll operate your recording software for you. 
+
+## I'm also building a [Convolutional Neural Network for Brain-Computer Interface applications](https://github.com/adaley222/motor-classification)!
+
+![image](https://github.com/user-attachments/assets/7a02a0e2-68e4-45d8-84db-c5ef37bfdd66)
+
+I did some BCI research back in grad school, and am now implementing that research using modern tools. Taking steps toward controling your computer with just your thoughts. 
